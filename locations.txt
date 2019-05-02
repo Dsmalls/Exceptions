@@ -1,0 +1,6 @@
+0,I'm sitting on my computer learning java
+1,I am standing at the end of the road in front of the gym
+2,Im and the top of the hill
+3,I am outside the the gym, near the small spring
+4,Im on the street near the main highway
+5,Im somewhere near something
